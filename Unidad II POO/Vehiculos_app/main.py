@@ -1,9 +1,10 @@
 """
 Archivo: main.py
 Descripción:
-Punto de entrada del sistema de gestión de vehículos.
-Desde este archivo se ejecuta el programa principal,
-utilizando las clases de los módulos modelos y servicios.
+Este módulo es el punto de entrada del programa. Coordina la ejecución
+general del sistema creando instancias de las clases definidas en los
+módulos y ejecutando la lógica principal. Permite mantener separada
+la lógica principal del resto de componentes del sistema.
 """
 
 from servicios.taller import Taller

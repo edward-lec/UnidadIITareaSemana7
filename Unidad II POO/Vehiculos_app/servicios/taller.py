@@ -1,7 +1,10 @@
 """
 Archivo: taller.py
 Descripción:
-Este módulo define la clase Taller, encargada de gestionar los vehículos.
+Este módulo contiene la clase Taller, encargada de la gestión de los
+vehículos dentro del sistema. Su función principal es registrar,
+almacenar y mostrar los vehículos disponibles. Actúa como la capa
+de servicios que maneja la lógica del negocio.
 """
 
 class Taller:

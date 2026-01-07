@@ -1,8 +1,10 @@
 """
 Archivo: vehiculo_electrico.py
 Descripción:
-Este módulo define la clase VehiculoElectrico, que hereda de Vehiculo.
-Aplica herencia y polimorfismo.
+Este módulo define la clase VehiculoElectrico, la cual hereda de la clase
+Vehiculo. Representa vehículos eléctricos y añade atributos específicos
+como la capacidad de la batería. Permite aplicar el principio de herencia
+y reutilizar código, extendiendo la funcionalidad de la clase base.
 """
 
 from .Vehiculo import Vehiculo
