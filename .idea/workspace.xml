@@ -146,7 +146,7 @@
       <workItem from="1768248289265" duration="617000" />
       <workItem from="1768319976253" duration="495000" />
       <workItem from="1768320538150" duration="2691000" />
-      <workItem from="1768338461066" duration="898000" />
+      <workItem from="1768338461066" duration="1391000" />
     </task>
     <servers />
   </component>
@@ -162,7 +162,7 @@
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$main.coverage" NAME="main Coverage Results" MODIFIED="1768323368869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad II POO/Vehiculos_app" />
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$Técnicas_Programación.coverage" NAME="Técnicas Programación Coverage Results" MODIFIED="1765388752941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I" />
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$Programación_tradicional_TareaS3.coverage" NAME="Programación tradicional TareaS3 Coverage Results" MODIFIED="1765391362608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I" />
-    <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1768338517123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad II POO/Aplicacion_POO_FigurasS6" />
+    <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1768339568099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad II POO/Aplicacion_POO_FigurasS6" />
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$clima_base.coverage" NAME="clima_base Coverage Results" MODIFIED="1765415063083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I/Programación Orientada a Objetos" />
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$clima_semanal.coverage" NAME="clima_semanal Coverage Results" MODIFIED="1765413919840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I/Programación Orientada a Objetos" />
   </component>
