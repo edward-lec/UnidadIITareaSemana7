@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e8b42e4-3c21-41b8-9512-a59beb938c6a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Unidad II POO/Aplicacion_POO_FigurasS6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad II POO/Aplicacion_POO_FigurasS6/modelos/Circulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad II POO/Aplicacion_POO_FigurasS6/modelos/Figura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad II POO/Aplicacion_POO_FigurasS6/modelos/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad II POO/Aplicacion_POO_FigurasS6/servicios/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad II POO/Aplicacion_POO_FigurasS6/servicios/operaciones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/hotel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad II POO/Vehiculos_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad II POO/Vehiculos_app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad II POO/Vehiculos_app/modelos/Vehiculo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad II POO/Vehiculos_app/modelos/Vehiculo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad II POO/Vehiculos_app/modelos/Vehiculo_electrico.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad II POO/Vehiculos_app/modelos/Vehiculo_electrico.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +146,7 @@
       <workItem from="1768248289265" duration="617000" />
       <workItem from="1768319976253" duration="495000" />
       <workItem from="1768320538150" duration="2691000" />
-      <workItem from="1768338461066" duration="465000" />
+      <workItem from="1768338461066" duration="898000" />
     </task>
     <servers />
   </component>
